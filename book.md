@@ -14,3 +14,9 @@
 1. [Effective Java](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997)
 2. [Java Concurrency In Practice](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/ref=sr_1_1?s=books&ie=UTF8&qid=1516016440&sr=1-1&keywords=java+concurrency+in+practice)
 3. [Java Puzzlers](https://www.amazon.com/Java-Puzzlers-Traps-Pitfalls-Corner/dp/032133678X/ref=sr_1_1?s=books&ie=UTF8&qid=1516016490&sr=1-1&keywords=java+puzzlers)
+
+## Scala
+
+1. [Programming in Scala](https://www.amazon.com/Programming-Scala-Updated-2-12/dp/0981531687/ref=sr_1_3?ie=UTF8&qid=1516017036&sr=8-3&keywords=programming+in+scala+3rd+edition)
+2. [Programming Scala](https://www.amazon.com/Programming-Scala-Scalability-Functional-Objects/dp/1491949856/ref=sr_1_4?s=books&ie=UTF8&qid=1516017078&sr=1-4&keywords=programming+scala)
+3. [Scala Cookbook](https://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611/ref=sr_1_3?s=books&ie=UTF8&qid=1516017110&sr=1-3&keywords=scala+cookbook)
