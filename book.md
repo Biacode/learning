@@ -20,3 +20,8 @@
 1. [Programming in Scala](https://www.amazon.com/Programming-Scala-Updated-2-12/dp/0981531687/ref=sr_1_3?ie=UTF8&qid=1516017036&sr=8-3&keywords=programming+in+scala+3rd+edition)
 2. [Programming Scala](https://www.amazon.com/Programming-Scala-Scalability-Functional-Objects/dp/1491949856/ref=sr_1_4?s=books&ie=UTF8&qid=1516017078&sr=1-4&keywords=programming+scala)
 3. [Scala Cookbook](https://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611/ref=sr_1_3?s=books&ie=UTF8&qid=1516017110&sr=1-3&keywords=scala+cookbook)
+
+## Kotlin
+
+1. [Kotlin in Action](https://www.amazon.com/Kotlin-Action-Dmitry-Jemerov/dp/1617293296/ref=sr_1_1?ie=UTF8&qid=1516017197&sr=8-1&keywords=kotlin+in+action)
+2. The best resource - [Reference](https://kotlinlang.org/docs/reference/)
